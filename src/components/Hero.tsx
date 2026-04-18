@@ -15,11 +15,11 @@ export function Hero() {
       <div className="pb-16 mt-auto text-center relative">
         <Pill className="mb-6">ВОСПИТАТЕЛЬ ДОУ</Pill>
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-sentient">
-          Растим счастливых <br />
-          <i className="font-light">и любознательных</i> детей
+          Борисова Дарья <br />
+          <i className="font-light">Игоревна</i>
         </h1>
         <p className="font-mono text-sm sm:text-base text-foreground/60 text-balance mt-8 max-w-[440px] mx-auto">
-          Педагог с любовью к детям, современными методиками и многолетним опытом работы в дошкольном образовании
+          Воспитатель дошкольного образования · STEAM, ИКТ, инклюзивный подход · 4 года опыта
         </p>
 
         <a className="contents max-sm:hidden" href="#contact">
